@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/M2WsQnJ/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+      "title": "The Adventure of the Lost Key",
+      "author": "Jessica Smith",
+      "author_img": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 10,
+      "hashtags": ["adventure", "mystery", "fiction"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/j4957XP/4159750-1.jpg",
+      "title": "Cooking Masterclass: Italian Cuisine",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 15,
+      "hashtags": ["cooking", "food", "Italian"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/19P0j7Z/9116743-1.jpg",
+      "title": "Mindfulness Meditation: A Beginner's Guide",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 8,
+      "hashtags": ["mindfulness", "meditation", "health"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/M2WsQnJ/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+      "title": "The Art of Time Management",
+      "author": "David Wilson",
+      "author_img": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 12,
+      "hashtags": ["productivity", "time management", "self-help"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/j4957XP/4159750-1.jpg",
+      "title": "Exploring the Wonders of Space",
+      "author": "Sophie Turner",
+      "author_img": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 20,
+      "hashtags": ["space", "science", "exploration"]
+    }
+]
+  
